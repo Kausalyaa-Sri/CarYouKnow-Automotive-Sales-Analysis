@@ -1,8 +1,37 @@
-## Welcome to GitHub Pages
+## CarYouKnow -Data Analysis
+    It is a thoughtful Data Analysis and Data Visualization web application that provides insights on Automotive Industry sales.
 
-You can use the [editor on GitHub](https://github.com/Kausalyaa-Sri/CarYouKnow-Automotive-Industry-Analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#Link to website--> https://kausalyaa-sri.github.io/CarYouKnow-Automotive-Industry-Analysis/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Project Motivativation-->
+    Inquisitive to learn data analysis and prediction to achieve Business Intelligence.  
+    
+#Project Description-->
+    CarYouKnow is an application built using Power BI embedded analytics and Python, demonstrating automobile sales analysis on various factors     affecting sales and analysing customer segments and sentiments.The application empowers automotive industry to make business decisions         based on data. 
+
+#Features-->
+   1. View the various cars and its features in a Power BI iteractive Dashboard
+   2. Dynamically analyse the automobile sales in various regions with respect to timeline through a Power BI interactive reports
+   3. Question and Answer page with button clicks and navigation 
+   4. Identify customer segments with visualized reports
+   5. Analyse the customer sentiments with wordcoud and (plotly) data visualization pages
+   6. Customer car rewiew topic modeling with (pyLDAviz) python visualization 
+
+#Technology tools-->
+   1. Microsoft Power BI-  to build interactive dashboards
+   2. Jupyter Notebooks -  to run python codes(ML,NLP)
+   3. Vizual Studio Code-  for web development
+
+#Browser Support__.
+   - Google Chrome
+   - Microsoft Edge
+
+
+
+
+   
+   
+    
 
 ### Markdown
 

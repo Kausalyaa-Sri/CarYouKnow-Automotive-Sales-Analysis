@@ -1,5 +1,5 @@
 ## CarYouKnow -Data Analysis
-    It is a thoughtful Data Analysis and Data Visualization web application that provides insights on Automotive Industry sales.
+  - It is a thoughtful Data Analysis and Data Visualization web application that provides insights on Automotive Industry sales.
 
 ### Link to website--> https://kausalyaa-sri.github.io/CarYouKnow-Automotive-Industry-Analysis/
 

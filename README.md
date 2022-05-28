@@ -7,7 +7,10 @@
     Inquisitive to learn data analysis and prediction to achieve Business Intelligence.  
     
 ### Project Description-->
-    CarYouKnow is an application built using Power BI embedded analytics and Python, demonstrating automobile sales analysis on various factors   affecting sales and analysing customer segments and sentiments.The application empowers automotive industry to make business decisions based on data. 
+   - CarYouKnow is an application built using Power BI embedded analytics and Python.
+   - Demonstrates automobile sales analysis on various factors affecting sales
+   - Analysing customer segments and sentiments
+   - The application empowers automotive industry to make business decisions based on data. 
 
 ### Features-->
    1. View the various cars and its features in a Power BI iteractive Dashboard

@@ -13,8 +13,8 @@
    - The application empowers automotive industry to make business decisions based on data. 
 
 ### Features-->
-   1. View the various cars and its features in a Power BI iteractive Dashboard
-   2. Dynamically analyse the automobile sales in various regions with respect to timeline through a Power BI interactive reports
+   1. View cars and its features in a Power BI iteractive Dashboard
+   2. Dynamically analyse the automobile sales in various regions with respect to timeline through Power BI interactive reports
    3. Question and Answer page with button clicks and navigation 
    4. Identify customer segments with visualized reports
    5. Analyse the customer sentiments with wordcoud and (plotly) data visualization pages
